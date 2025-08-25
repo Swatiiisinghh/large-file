@@ -51,6 +51,6 @@ Here are some screenshots of the AlzPal app in action:
 ⭐ **Arzoo Patra** - Developer and Designer
 
 ⭐ **Jaya** - Developer  
-⭐ **Swati** - Developer
+⭐ **Swati** - Designer
 
 ⭐ **Nikita Kumari** - Developer
